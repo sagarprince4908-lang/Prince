@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuest",
+  "description": "Gamified RPG study focus timer, daily quests, streak tracker, and character growth level-up system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
